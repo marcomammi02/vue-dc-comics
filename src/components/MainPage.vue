@@ -1,7 +1,7 @@
 <template>
   <div class="main">
     <div class="content-area">
-      <h1>Content goes here</h1>
+      <h1>&lt;-- Content goes here --&gt;</h1>
     </div>
     <div class="menu-area">
       <ul>
