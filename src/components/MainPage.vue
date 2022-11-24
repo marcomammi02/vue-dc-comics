@@ -4,7 +4,7 @@
       <h1>&lt;-- Content goes here --&gt;</h1>
     </div>
     <div class="menu-area">
-      <ul>
+      <ul class="main-menu">
         <li>
           <img src="@/img/buy-comics-digital-comics.png" alt="">
           <p>DIGITAL COMICS</p>
