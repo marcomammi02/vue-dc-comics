@@ -44,6 +44,7 @@
         <img src="@/img/dc-logo-bg.png" alt="">
       </div>
     </div>
+    <div class="footer-space"></div>
     <div class="link-area">
       <div class="container-link-area">
         <div class="btn">SIGN-UP NOW!</div>
@@ -82,6 +83,7 @@ export default {
   display: flex;
   padding: 2rem 0 3rem;
   position: relative;
+  height: 305px;
 }
 
 .footer-list {
@@ -109,13 +111,16 @@ export default {
   z-index: -1;
 }
 
+.footer-space {
+  height: 305px;
+}
+
 .link-area {
   background-color: #303030;
   height: 90px;
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 0;
 }
 
 .container-link-area {
